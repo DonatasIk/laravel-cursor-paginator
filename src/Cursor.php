@@ -2,6 +2,7 @@
 
 namespace Amrnn\CursorPaginator;
 
+use Illuminate\Support\Arr;
 use JsonSerializable;
 use Illuminate\Contracts\Support\Jsonable;
 use Illuminate\Contracts\Support\Arrayable;
